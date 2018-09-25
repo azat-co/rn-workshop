@@ -2,6 +2,7 @@
 
 ## Content:
 
+* About me
 * Why React Native
 * React basics
   * import
